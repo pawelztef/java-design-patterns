@@ -1,0 +1,3 @@
+interface GeometricShape {
+  void draw();
+}
